@@ -1,4 +1,4 @@
-WHO-growth-charts
+WHO growth charts
 =================
 
-Use WHO standards to create growth charts in ggplot2
+`R` script to create length/height-for-age and weight-for-age with z-scores for boys and girls 0 to 60 months.
